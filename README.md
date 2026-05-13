@@ -20,11 +20,11 @@ What factors drive sneaker resale prices above retail on the secondary market?
 
 ## Models and Results
 
-|         Model       | Metric    | Score |
-
-| Logistic Regression | ROC-AUC   |  0.78 |
-| Linear Regression   | R-squared |  0.44 |
-| Decision Tree       | Accuracy  | 90.6% |
+| Model | Metric | Score |
+|---|---|---|
+| Logistic Regression | ROC-AUC | 0.78 |
+| Linear Regression | R-squared | 0.44 |
+| Decision Tree | Accuracy | 90.6% |
 
 ## Key Findings
 - Days Since Release was the strongest predictor of resale premium, with feature importance of 0.52
